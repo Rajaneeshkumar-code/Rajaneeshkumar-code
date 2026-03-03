@@ -40,8 +40,8 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:yourmail@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://https://www.linkedin.com/in/rajaneesh-kumar-0607a3273/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](rajaneeshkumarbgp@gmail.com)
 
 ---
 
