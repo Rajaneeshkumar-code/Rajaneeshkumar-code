@@ -21,13 +21,32 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![Rajaneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajaneeshkumar&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=rajaneeshkumar&theme=radical)
+- 🎯 5 Contributions in 2024  
+- 📦 6+ Public Repositories  
+- 🐍 Strong focus on Python & Jupyter Notebook Projects  
+- 📚 Completed IBM Machine Learning & Data Analysis Labs  
+- 🚀 Active in AI, ML & Data Science Projects  
+- 🏆 Started GitHub Journey: August 16, 2024  
 
 ---
+## 🔥 Featured Projects
+
+- 📊 IBM Data Analysis with Python  
+- 🤖 Machine Learning IBM Labs  
+- 📈 IBM Data Visualization with Python  
+- 💻 Python IBM Skilled  
+- 🗄️ Universe Database Project (PostgreSQL)  
+- 🛠️ Git Learning Repository  
+
+---
+
+## 💡 Contribution Overview
+
+- Consistent learning in AI & Machine Learning  
+- Hands-on implementation using Jupyter Notebooks  
+- Building strong foundation in Python & Data Science  
 
 ## 🔬 Research Interests
 
