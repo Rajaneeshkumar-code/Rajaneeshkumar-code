@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there 👋 I'm Rajaneesh Kumar
 
-<!--
-**Rajaneeshkumar-code/Rajaneeshkumar-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Tech in Artificial Intelligence & Machine Learning  
+💻 Data Science | Machine Learning | Deep Learning  
+🔬 Research Enthusiast | GAN for Fraud Detection  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 Currently working on GAN-based Credit Card Fraud Detection
+- 📊 Working with European Credit Card Dataset
+- 🤖 Interested in Deep Learning, Computer Vision & NLP
+- 📈 Comparing ML models using Sensitivity, Specificity & F1-score
+
+---
+
+## 🛠️ Skills
+
+![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,mysql,git,github,linux)
+
+---
+
+## 📊 GitHub Stats
+
+![Rajaneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajaneeshkumar&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=rajaneeshkumar&theme=radical)
+
+---
+
+## 🔬 Research Interests
+
+- Generative Adversarial Networks (GAN)
+- Fraud Detection Systems
+- Deep Neural Networks (RNN, LSTM, GRU)
+- Explainable AI (XAI)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:yourmail@gmail.com)
+
+---
+
+⭐ "Turning Data into Intelligent Solutions"
